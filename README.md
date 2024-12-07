@@ -1,35 +1,46 @@
-About the Project
+📰 News System - MVC Architecture
 
-This project is a simple News Management System built using the MVC (Model-View-Controller) design pattern. The system is designed to manage and display news articles dynamically, ensuring a clear separation of concerns between business logic, user interface, and data handling.
+📖 About the Project
 
-Features
-	•	User authentication and session management.
-	•	Dynamic news articles (CRUD operations).
-	•	Clean and modular MVC structure.
-	•	Lightweight and easy-to-understand implementation.
+A simple News Management System developed using the MVC (Model-View-Controller) design pattern.
+This system allows for dynamic management and display of news articles while maintaining a clear separation between the business logic (Controller/Model) and the user interface (View).
 
-Technologies Used
-	•	PHP: For server-side logic and dynamic rendering.
-	•	MySQL: For database management.
-	•	HTML/CSS: For structuring and styling the views.
-	•	Session Management: For maintaining user sessions.
+🚀 Features
+	•	🔐 User authentication and session management.
+	•	✏ CRUD operations for managing news articles.
+	•	🛠 Clean and organized MVC structure.
+	•	⚡ Lightweight and easy to understand.
 
-Project Structure
+🛠 Technologies Used
+	•	PHP: For implementing the server-side logic.
+	•	MySQL: For managing the database.
+	•	HTML/CSS: For building and styling the user interface.
+	•	Session Management: To handle user sessions.
 
-Model
+🗂 Project Structure
 
-The Model handles data operations such as fetching, inserting, updating, and deleting news articles.
+📁 Model
 
-View
+Handles data operations such as:
+	•	Fetching news articles.
+	•	Inserting new data.
+	•	Updating or deleting articles.
 
-The View displays data to the user without including any business logic.
+📁 View
 
-Controller
+Responsible for displaying data to users dynamically without any business logic.
 
-The Controller connects the Model and View, processing user inputs and controlling the flow of data.
+📁 Controller
 
-Session Management
+Acts as a bridge between the Model and the View to process user requests and execute operations.
 
-Sessions are used to authenticate users and maintain state across the application.
+📁 Session Management
+
+Sessions are used to authenticate users and maintain state across pages.
 
 
+🔗 GitHub Repository
+
+MvcNews.Php
+
+ده جاهز بل
